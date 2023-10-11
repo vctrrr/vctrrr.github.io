@@ -1,0 +1,23 @@
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+    line-height: 48em;
+
+}
+
+body {
+    background-image: url('Mes\ images/cococ.gif');
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+
+a {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+    line-height: 1em;
+}

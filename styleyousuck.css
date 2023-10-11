@@ -1,0 +1,18 @@
+body{
+    background-image: url(Mes\ images/yousuck.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:local;
+    background-position: center;
+    height : 300px
+    
+}
+
+h1, h2 {
+    color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 5em;
+    font-family: 'Amatic SC';
+
+}

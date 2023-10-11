@@ -1,0 +1,30 @@
+body{
+    background-image: url(Mes\ images/coraline2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:local;
+    height: 500px;
+background-position: center;
+margin: 0;
+padding: 0;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+  padding: 3px;
+  background-color: #444445c4;
+   justify-content: center;
+}
+
+footer {position: absolute; bottom: 0; left: 0; right: 0}
+
+button {
+    display:contents;
+    text-align:center;
+    vertical-align:auto;
+    background: url(Mes\ images/bouton1.png);
+}

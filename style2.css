@@ -1,0 +1,25 @@
+body {
+    background-image: url(Mes\ images/coraline.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+background-position: center;
+    }
+
+    h1 {
+        color: aliceblue;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 7em;
+        font-family: 'Amatic SC';
+
+    }
+
+    ul {
+        color: aliceblue;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 2em;
+        font-family: 'Amatic SC';
+        
+    }
